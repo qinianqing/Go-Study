@@ -31,4 +31,4 @@
 - [x] switch 求值顺序(switch-eval)
 - [x] 无条件的Switch(switchWithNo)
 - [x] defer推出外层函数执行(defer)
-- [x] defer栈
+- [x] defer栈(deferMulti)
