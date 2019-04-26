@@ -32,3 +32,5 @@
 - [x] 无条件的Switch(switchWithNo)
 - [x] defer推出外层函数执行(defer)
 - [x] defer栈(deferMulti)
+- [x] method类(method)
+- [x] mehtod扩展 (methodContinues)
