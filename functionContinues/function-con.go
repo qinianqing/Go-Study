@@ -1,9 +1,7 @@
 package main
 
-import (
-	"fmt"
-	"math"
-)
+import "fmt"
+import "math"
 
 type MyFloat float64
 
@@ -18,6 +16,7 @@ func main() {
 	f := MyFloat(-math.Sqrt2)
 	fmt.Println(f.Abs())
 }
+
 /**
 你也可以为非结构体类型声明方法。
 
