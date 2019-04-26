@@ -2,7 +2,14 @@
 - 学习go的一些小练习，逐步更新
 
 - 运行环境：go 
-- 运行命令：go run xx.go
+- 运行命令：
+```
+go run xx.go
+```
+- 格式化代码：
+```
+gofmt -w *.go  
+```
 - 模块列表
 - [x] 包 (packages)
 - [x] 导入 (imports)

@@ -20,6 +20,7 @@ func main() {
 	fmt.Println(needFloat(Small))
 	fmt.Println(needFloat(Big))
 }
+
 /**
 数值常量是高精度的 值。
 
